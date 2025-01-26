@@ -1,0 +1,73 @@
+# Lists in Blockquote Start Indented
+
+Text
+
+  + Item
+  + Item
+    + Item
+    + Item
+      + Item
+      + Item
+    + Item
+  + Item
+
+Text
+
+    Code
+
+Text
+
+> Text
+>
+>   + Item {MD027}
+>   + Item {MD027}
+>     + Item {MD027}
+>     + Item {MD027}
+>       + Item {MD027}
+>       + Item {MD027}
+>     + Item {MD027}
+>   + Item {MD027}
+>
+> Text
+>
+>     Code
+
+Text
+
+  1. Item
+  1. Item
+     1. Item
+     1. Item
+        1. Item
+        1. Item
+     1. Item
+  1. Item
+
+Text
+
+    Code
+
+Text
+
+> Text
+>
+>   1. Item {MD027}
+>   1. Item {MD027}
+>      1. Item {MD027}
+>      1. Item {MD027}
+>         1. Item {MD027}
+>         1. Item {MD027}
+>      1. Item {MD027}
+>   1. Item {MD027}
+>
+> Text
+>
+>     Code
+
+Text
+
+<!-- markdownlint-configure-file {
+  "ul-indent": {
+    "start_indented": true
+  }
+} -->
