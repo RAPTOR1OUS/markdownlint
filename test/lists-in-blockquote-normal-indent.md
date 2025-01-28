@@ -4,7 +4,13 @@ Text
 
 + Item
 + Item
+  more
+  item
++ Item
   + Item
+  + Item
+    more
+    item
   + Item
     + Item
     + Item
@@ -21,7 +27,13 @@ Text
 >
 > + Item
 > + Item
+>   more
+>   item
+> + Item
 >   + Item
+>   + Item
+>     more
+>     item
 >   + Item
 >     + Item
 >     + Item
@@ -36,7 +48,13 @@ Text
 
 1. Item
 1. Item
+   more
+   item
+1. Item
    1. Item
+   1. Item
+      more
+      item
    1. Item
       1. Item
       1. Item
@@ -53,7 +71,13 @@ Text
 >
 > 1. Item
 > 1. Item
+>    more
+>    item
+> 1. Item
 >    1. Item
+>    1. Item
+>       more
+>       item
 >    1. Item
 >       1. Item
 >       1. Item
